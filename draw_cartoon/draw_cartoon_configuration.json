@@ -1,0 +1,10 @@
+{
+	"latest_version":"1.0.0",
+    "is_admob":true,
+	"version":"PRODUCTION",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data2/master/draw_cartoon/draw_cartoon_category.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data2/master/draw_cartoon/",
+    "admob_banner_id":"ca-app-pub-4322965078780162/7369971532",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/8846704738",
+    "itune_url":"http://itunes.apple.com/app/id1035103322"
+}
