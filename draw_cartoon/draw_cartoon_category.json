@@ -2,671 +2,443 @@
 	"categories":[
                   {
                     "category_id":"1",
-                    "category_name":"Cute Animals",
+                    "category_name":"Adventure Time",
                     "category_thumbnail":"1.png",
                     "is_video":"false",
                     "animes":[
                               {
-                                "anime_id":"1",
-                                "anime_name":"Baby Lion",
-                                "anime_step":8
-                              },
-                              {
-                              "anime_id":"2",
-                              "anime_name":"Baby Tiger",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"3",
-                              "anime_name":"Cute Lion Easy",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"4",
-                              "anime_name":"Chibi Zebra",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Cute Dolphin",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Adorable Shark",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"7",
-                              "anime_name":"Nice Turtle",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Chibi Snake",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Cute Crocodile",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Baby Pinguin",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Funny Octopus",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"White Duck",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Cute Owl",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Grey Bird",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Cute Blue Parrot",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"16",
-                              "anime_name":"White Unicorn",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"17",
-                              "anime_name":"Baby Panda",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"18",
-                              "anime_name":"Baby Giraffe",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"19",
-                              "anime_name":"Cute Monkey",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"20",
-                              "anime_name":"Baby Elephant",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"21",
-                              "anime_name":"Cute Kitten",
-                              "anime_step":6
-                              },
-                              {
-                              "anime_id":"22",
-                              "anime_name":"Cute Pony",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id":"23",
-                              "anime_name":"Little Cat",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"24",
-                              "anime_name":"Adorable Hamster",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"25",
-                              "anime_name":"Little Fox",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id":"26",
-                              "anime_name":"Cute Dog",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"27",
-                              "anime_name":"Anime Wolf",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id":"28",
-                              "anime_name":"Cute Pig",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"29",
-                              "anime_name":"Nice Lion",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"30",
-                              "anime_name":"Baby Skunk",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"31",
-                              "anime_name":"Cute Cat",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"32",
-                              "anime_name":"Nice Fennec Fox",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id":"33",
-                              "anime_name":"Cute Cat",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"34",
-                              "anime_name":"Cow",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"35",
-                              "anime_name":"Dog",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"36",
-                              "anime_name":"Chicken",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"37",
-                              "anime_name":"Blue Bird",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"38",
-                              "anime_name":"Rabbit",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"39",
-                              "anime_name":"Grey Cat",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"40",
-                              "anime_name":"Triceratops",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"41",
-                              "anime_name":"Little Dog",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"42",
-                              "anime_name":"Cute Dragon",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"43",
-                              "anime_name":"Yellow Monster",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"44",
-                              "anime_name":"Pretty Pony",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"45",
-                              "anime_name":"Tiranosaurus",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"46",
-                              "anime_name":"Dog in Hat",
-                              "anime_step":10
+                                "anime_id":"",
+                                "anime_name":"",
+                                "anime_step":
                               }
                         ]
                     },
                   {
                   "category_id":"2",
-                  "category_name":"Cats and Kittens",
+                  "category_name":"Animal Jam",
                   "category_thumbnail":"2.png",
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
-                            "anime_name":"Garfield",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Tom",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Sylvester",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Top Cat",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Meowth",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Felix the Cat",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Pink Panther",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Hobbes",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Heathcliff",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Scratchy",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Blaze the Cat",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Tails",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Amy Rose",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Cheshire Cat",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Mewthree",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"16",
-                            "anime_name":"Hello Kitty",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"17",
-                            "anime_name":"Kitten for Kids",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"18",
-                            "anime_name":"Tom Cat",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"19",
-                            "anime_name":"Puss in Boots",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"20",
-                            "anime_name":"Catdog",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"21",
-                            "anime_name":"Tiger Kitten",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"22",
-                            "anime_name":"Cute Kitten",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"23",
-                            "anime_name":"Anime Kitten",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"24",
-                            "anime_name":"Playing Kittens",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"25",
-                            "anime_name":"Kitten Princess",
-                            "anime_step":8
+                            "anime_id":"",
+                            "anime_name":"",
+                            "anime_step":
                             }
                             ]
                   },
                   {
                   "category_id":"3",
-                  "category_name":"Cats Superheroes",
+                  "category_name":"Avatar",
                   "category_thumbnail":"3.png",
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
-                            "anime_name":"Black Cat Widow",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"BobaCatt",
-                            "anime_step":15
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Captain Americat",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Cath Vader",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Catman",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Cat Solo",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Catverine",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Flash Cat",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Hulkat",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Hawkat Eye",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Iron Cat",
-                            "anime_step":15
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Loki cat",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Spider Cat",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Supercat",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Thor Cat",
-                            "anime_step":14
+                            "anime_id":"",
+                            "anime_name":"",
+                            "anime_step":
                             }
                             ]
                   },
                   {
                   "category_id":"4",
-                  "category_name":"Dogs and Puppies",
+                  "category_name":"Big Hero 6",
                   "category_thumbnail":"4.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Scooby Doo",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Snoopy",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Brian Griffin",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Pluto",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Courage",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Santa's Little Helper",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Mutley",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Odie",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Underdog",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Goofy",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Ninetales Pokemon",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Entei Pokemon",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Spike and Tyke",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Puppy Labrador Retriever",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Puppy German Shepherd",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"16",
-                            "anime_name":"Dachshund",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"17",
-                            "anime_name":"Cocker Spaniel",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"18",
-                            "anime_name":"Pug Laughing",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"19",
-                            "anime_name":"Husky face",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"20",
-                            "anime_name":"Boxer Dog",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"21",
-                            "anime_name":"Cute Pit Bull",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"22",
-                            "anime_name":"Yorkshire Terrier",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"23",
-                            "anime_name":"Shih Tzu Dog",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"24",
-                            "anime_name":"Puppy and Kitty",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"25",
-                            "anime_name":"CatDog",
-                            "anime_step":8
+                            "anime_name":"",
+                            "anime_step":
                             }
                             ]
                   },
                   {
                   "category_id":"5",
-                  "category_name":"Jurassic Dinosaurs",
+                  "category_name":"Cartoon Characters",
                   "category_thumbnail":"5.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Indominus Rex",
-                            "anime_step":12
-                            },
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"6",
+                  "category_name":"Chowder",
+                  "category_thumbnail":"6.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"2",
-                            "anime_name":"Tyrannosaurus",
-                            "anime_step":11
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"7",
+                  "category_name":"Clarence",
+                  "category_thumbnail":"7.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"3",
-                            "anime_name":"Velociraptor",
-                            "anime_step":11
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"8",
+                  "category_name":"Despicable Me",
+                  "category_thumbnail":"8.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"4",
-                            "anime_name":"Spinosaururs",
-                            "anime_step":12
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"9",
+                  "category_name":"Disney Tsum Tsum",
+                  "category_thumbnail":"9.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"5",
-                            "anime_name":"Pachycephalosaurus",
-                            "anime_step":11
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"10",
+                  "category_name":"Dora and Diego",
+                  "category_thumbnail":"10.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"6",
-                            "anime_name":"Stegosaurus",
-                            "anime_step":13
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"11",
+                  "category_name":"Family Guy",
+                  "category_thumbnail":"11.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"7",
-                            "anime_name":"Ankylosaurus",
-                            "anime_step":14
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"12",
+                  "category_name":"Flapjack",
+                  "category_thumbnail":"12.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"8",
-                            "anime_name":"Triceratops",
-                            "anime_step":11
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"13",
+                  "category_name":"Frozen",
+                  "category_thumbnail":"13.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"9",
-                            "anime_name":"Mosasaurus",
-                            "anime_step":10
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"14",
+                  "category_name":"Futurama",
+                  "category_thumbnail":"14.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"10",
-                            "anime_name":"Gallimimus",
-                            "anime_step":12
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"15",
+                  "category_name":"Galaxy Guardians",
+                  "category_thumbnail":"15.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"11",
-                            "anime_name":"Suchomimus",
-                            "anime_step":12
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"16",
+                  "category_name":"Guardian of the Moon",
+                  "category_thumbnail":"16.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"12",
-                            "anime_name":"Dimorphodon",
-                            "anime_step":10
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"17",
+                  "category_name":"Home Cartoon",
+                  "category_thumbnail":"17.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"13",
-                            "anime_name":"Pteranodon",
-                            "anime_step":13
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"18",
+                  "category_name":"Hotel Transylvania",
+                  "category_thumbnail":"18.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"14",
-                            "anime_name":"Edmonotosaurus",
-                            "anime_step":12
-                            },
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"19",
+                  "category_name":"Ice Age",
+                  "category_thumbnail":"19.png",
+                  "is_video":"false",
+                  "animes":[
                             {
-                            "anime_id":"15",
-                            "anime_name":"Parasaurolophus",
-                            "anime_step":11
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"20",
+                  "category_name":"Inside Out",
+                  "category_thumbnail":"20.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"21",
+                  "category_name":"Little Einsteins",
+                  "category_thumbnail":"21.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"22",
+                  "category_name":"Ninja Turtles",
+                  "category_thumbnail":"22.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"23",
+                  "category_name":"Madagascar Penguins",
+                  "category_thumbnail":"23.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"24",
+                  "category_name":"Kung Fu Panda",
+                  "category_thumbnail":"24.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"25",
+                  "category_name":"Planes Cartoon",
+                  "category_thumbnail":"25.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"26",
+                  "category_name":"Pororo Penguin",
+                  "category_thumbnail":"26.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"27",
+                  "category_name":"Regular Show",
+                  "category_thumbnail":"27.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"28",
+                  "category_name":"Scooby Doo",
+                  "category_thumbnail":"28.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"29",
+                  "category_name":"Shaun the Sheep",
+                  "category_thumbnail":"29.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"30",
+                  "category_name":"Superheroes",
+                  "category_thumbnail":"30.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"31",
+                  "category_name":"Sonic the Hedgehog",
+                  "category_thumbnail":"31.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"32",
+                  "category_name":"South Park",
+                  "category_thumbnail":"32.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"33",
+                  "category_name":"Spongebob",
+                  "category_thumbnail":"33.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"34",
+                  "category_name":"The Simpsons",
+                  "category_thumbnail":"34.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"",
+                            "anime_step":
                             }
                             ]
                   }
