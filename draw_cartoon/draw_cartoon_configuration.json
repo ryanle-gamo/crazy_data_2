@@ -1,7 +1,7 @@
 {
 	"latest_version":"1.0.0",
     "is_admob":true,
-	"version":"PRODUCTION",
+	"version":"ALPHA",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_cartoon/draw_cartoon_category.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_cartoon/",
     "admob_banner_id":"ca-app-pub-4322965078780162/6536563135",
