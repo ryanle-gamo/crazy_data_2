@@ -1,409 +1,3438 @@
 {
 	"categories":[
                   {
-                    "category_id":"1",
-                    "category_name":"Anime Eyes",
-                    "category_thumbnail":"1.png",
-                    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
-                    "is_video":"false",
-                    "animes":[
-                              {
-                                "anime_id":"1",
-                                "anime_name":"Abstract Eye",
-                                "anime_step":13
-                              },
-                              {
-                              "anime_id":"2",
-                              "anime_name":"Anime Men's Eye",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"3",
-                              "anime_name":"Moon Eye",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"4",
-                              "anime_name":"Anime Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Fairy Eyes",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Cat's Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"7",
-                              "anime_name":"Cosmic Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Crying Eye",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Dark Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Male Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Old Realistic Eye",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"Pink Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Realistic Eye",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Star Eye",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Winking Eyes",
-                              "anime_step":8
-                              }
-                        ]
-                    },
-                  {
-                  "category_id":"2",
-                  "category_name":"Color Eyes",
-                  "category_thumbnail":"2.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "category_id":"1",
+                  "category_name":"Adventure Time",
+                  "category_thumbnail":"1.png",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Catorce",
-                            "anime_step":11
+                            "anime_name":"Slime Princess",
+                            "anime_step":7
                             },
                             {
                             "anime_id":"2",
-                            "anime_name":"Cinco",
-                            "anime_step":11
+                            "anime_name":"Ice King",
+                            "anime_step":10
                             },
                             {
                             "anime_id":"3",
-                            "anime_name":"Cuatro",
-                            "anime_step":9
+                            "anime_name":"Tree Trunks",
+                            "anime_step":12
                             },
                             {
                             "anime_id":"4",
-                            "anime_name":"Diecinueve",
-                            "anime_step":8
+                            "anime_name":"Princess Bubblegum",
+                            "anime_step":12
                             },
                             {
                             "anime_id":"5",
-                            "anime_name":"Dieciocho",
-                            "anime_step":8
+                            "anime_name":"Lumpy Space Princess",
+                            "anime_step":10
                             },
                             {
                             "anime_id":"6",
-                            "anime_name":"Dieciseis",
-                            "anime_step":9
+                            "anime_name":"Marceline",
+                            "anime_step":12
                             },
                             {
                             "anime_id":"7",
-                            "anime_name":"Diecisiete",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Diez",
+                            "anime_name":"Peppermint Butler",
                             "anime_step":9
                             },
                             {
+                            "anime_id":"8",
+                            "anime_name":"Abracadaniel",
+                            "anime_step":11
+                            },
+                            {
                             "anime_id":"9",
-                            "anime_name":"Doce",
+                            "anime_name":"Bannana Guard",
                             "anime_step":9
                             },
                             {
                             "anime_id":"10",
-                            "anime_name":"Dos",
-                            "anime_step":8
+                            "anime_name":"BMO",
+                            "anime_step":10
                             },
                             {
                             "anime_id":"11",
-                            "anime_name":"Nueve",
+                            "anime_name":"Cat Cake",
                             "anime_step":10
                             },
                             {
                             "anime_id":"12",
-                            "anime_name":"Ocho",
+                            "anime_name":"Cosmic Owl",
                             "anime_step":9
                             },
                             {
                             "anime_id":"13",
-                            "anime_name":"Once",
+                            "anime_name":"Finn",
                             "anime_step":11
                             },
                             {
                             "anime_id":"14",
-                            "anime_name":"Quince",
+                            "anime_name":"Fionna",
                             "anime_step":10
                             },
                             {
                             "anime_id":"15",
-                            "anime_name":"Seis",
-                            "anime_step":8
+                            "anime_name":"Flame Princess",
+                            "anime_step":11
                             },
                             {
                             "anime_id":"16",
-                            "anime_name":"Siete",
+                            "anime_name":"Gumball Guardian",
                             "anime_step":11
                             },
                             {
                             "anime_id":"17",
-                            "anime_name":"Trece",
+                            "anime_name":"Gunter",
                             "anime_step":8
                             },
                             {
                             "anime_id":"18",
-                            "anime_name":"Tres",
-                            "anime_step":8
+                            "anime_name":"Jake",
+                            "anime_step":9
                             },
                             {
                             "anime_id":"19",
-                            "anime_name":"Uno",
-                            "anime_step":9
+                            "anime_name":"Lady Rainicorn",
+                            "anime_step":13
                             },
                             {
                             "anime_id":"20",
-                            "anime_name":"Veinte",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"21",
-                            "anime_name":"Veinticinco",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"22",
-                            "anime_name":"Veinticuatro",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"23",
-                            "anime_name":"Veintidos",
+                            "anime_name":"Lemongrab",
                             "anime_step":10
-                            },
-                            {
-                            "anime_id":"24",
-                            "anime_name":"Veintiseis",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"25",
-                            "anime_name":"Veintisiete",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"26",
-                            "anime_name":"Veintitres",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"27",
-                            "anime_name":"Veintiuno",
-                            "anime_step":9
                             }
                             ]
                   },
                   {
-                  "category_id":"4",
-                  "category_name":"Female Eyes",
-                  "category_thumbnail":"4.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "category_id":"2",
+                  "category_name":"Animal Jam",
+                  "category_thumbnail":"2.png",
                   "is_video":"false",
                   "animes":[
                             {
-                            "anime_id":"1",
-                            "anime_name":"Female #1",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Female #2",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Female #3",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Female #4",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Female #5",
+                            "anime_id":"20",
+                            "anime_name":"Logo",
                             "anime_step":11
                             },
                             {
-                            "anime_id":"6",
-                            "anime_name":"Female #6",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Female #7",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Female #8",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Female #9",
-                            "anime_step":20
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Female #10",
-                            "anime_step":13
-                            }
-                            ]
-                  },
-                  {
-                  "category_id":"5",
-                  "category_name":"Male Eyes",
-                  "category_thumbnail":"5.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
-                  "is_video":"false",
-                  "animes":[
-                            {
-                            "anime_id":"1",
-                            "anime_name":"Male #1",
-                            "anime_step":13
+                            "anime_id":"12",
+                            "anime_name":"Arctic Wolf",
+                            "anime_step":14
                             },
                             {
                             "anime_id":"2",
-                            "anime_name":"Male #2",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Male #3",
-                            "anime_step":12
+                            "anime_name":"Bunny",
+                            "anime_step":14
                             },
                             {
                             "anime_id":"4",
-                            "anime_name":"Male #4",
-                            "anime_step":12
+                            "anime_name":"Cheetah",
+                            "anime_step":15
                             },
                             {
-                            "anime_id":"5",
-                            "anime_name":"Male #5",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Male #6",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Male #7",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Male #8",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Male #9",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Male #10",
+                            "anime_id":"1",
+                            "anime_name":"Deer",
                             "anime_step":16
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Dolphin",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Fox",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Giraffe",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Horse",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Kangaroo",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Koala",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Panda",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Penguin",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Raccoon",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Rhino",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Seal",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Shark",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Snake",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Snow Leopard",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Wolf",
+                            "anime_step":15
                             }
                             ]
                   },
                   {
                   "category_id":"3",
-                  "category_name":"Classic Style",
+                  "category_name":"Avatar",
                   "category_thumbnail":"3.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
                   "is_video":"false",
                   "animes":[
                             {
                             "anime_id":"1",
-                            "anime_name":"Classic #1",
-                            "anime_step":8
+                            "anime_name":"Aang",
+                            "anime_step":12
                             },
                             {
                             "anime_id":"2",
-                            "anime_name":"Classic #2",
-                            "anime_step":5
+                            "anime_name":"Appa",
+                            "anime_step":10
                             },
                             {
                             "anime_id":"3",
-                            "anime_name":"Classic #3",
-                            "anime_step":5
+                            "anime_name":"Asami",
+                            "anime_step":12
                             },
                             {
                             "anime_id":"4",
-                            "anime_name":"Classic #4",
-                            "anime_step":5
+                            "anime_name":"Azula",
+                            "anime_step":11
                             },
                             {
                             "anime_id":"5",
-                            "anime_name":"Classic #5",
-                            "anime_step":5
+                            "anime_name":"Bolin",
+                            "anime_step":14
                             },
                             {
                             "anime_id":"6",
-                            "anime_name":"Classic #6",
+                            "anime_name":"Iroh",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Katara",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Korra",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Lin Beifong",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mako",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Meelo",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Momo",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Ozai",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Pabu",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Raava",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Sokka",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Suki",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Tenzin",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Toph",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Zuko",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"4",
+                  "category_name":"Big Hero 6",
+                  "category_thumbnail":"4.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Baymax",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Baymax in Armor",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Baymax and ball",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Chibi Baymax",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Hiro Hamada",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Hiro in Suit",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Chibi Hiro",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Fred",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Fred in Monster Suit",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Gogo Tomago",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Gogo in Suit",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Honey Lemon",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Honey Lemon in Suit",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Wasabi",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Wasabi in Suit",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Megabot",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Little Yama",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Tadashi",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Yokai",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Cass Hamada",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"5",
+                  "category_name":"Cartoon Characters",
+                  "category_thumbnail":"5.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Jake the Dog",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Red Bird",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Zuko",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Katara",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Batman",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Bugs Bunny",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Lighting McQueen",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Daffy Duck",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Minion Dave",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Donald Duck Face",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Dora",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Doras Backpack and Map",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Goku",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Ed",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"General Ronin Face",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Mandrake Face",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Timmy Turner",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Cosmo",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Stewie Griffin",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Peter Griffin Face",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Bender",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Garfield",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Goofy",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Ironman",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Luntik",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Masha",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Mickey Mouse",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Draculaura",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Rarity",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Pinkie Pie",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Naruto",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Pinky",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Dusty",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Rochelle",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Pikachu",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Red Ranger",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Black Ranger",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"38",
+                            "anime_name":"Mordecai",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"39",
+                            "anime_name":"Scooby Doo",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"40",
+                            "anime_name":"Cookie Monster",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"41",
+                            "anime_name":"Elmo",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"42",
+                            "anime_name":"Homer Simpson",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"43",
+                            "anime_name":"Bart Simpson",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"44",
+                            "anime_name":"Eric Cartman",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"45",
+                            "anime_name":"Spiderman",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"46",
+                            "anime_name":"Spongebob",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"47",
+                            "anime_name":"Patrick Star",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"48",
+                            "anime_name":"Squidward Tentacles",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"49",
+                            "anime_name":"Master Yoda",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"50",
+                            "anime_name":"Super Mario",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"51",
+                            "anime_name":"Superman",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"52",
+                            "anime_name":"Smurfette",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"53",
+                            "anime_name":"Clumsy",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"54",
+                            "anime_name":"Little Mermaid",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"55",
+                            "anime_name":"Thomas",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"56",
+                            "anime_name":"Tinker Bell",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"57",
+                            "anime_name":"Tom",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"58",
+                            "anime_name":"Jerry",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"59",
+                            "anime_name":"Winnie The Pooh",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"60",
+                            "anime_name":"Bloom",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"61",
+                            "anime_name":"Ralph",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"63",
+                            "anime_name":"Fluttershy",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"64",
+                            "anime_name":"Twilight Sparkle",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"65",
+                            "anime_name":"Batman Lego",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"66",
+                            "anime_name":"Spiderman Lego",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"6",
+                  "category_name":"Chowder",
+                  "category_thumbnail":"6.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Chowder",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Shnitzel",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Gazpacho",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Panini",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mung",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Truffles",
                             "anime_step":9
                             },
                             {
                             "anime_id":"7",
-                            "anime_name":"Classic #7",
-                            "anime_step":6
+                            "anime_name":"Gorgonzola",
+                            "anime_step":9
                             },
                             {
                             "anime_id":"8",
-                            "anime_name":"Classic #8",
+                            "anime_name":"Mr. Fugu",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Chestnut",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Arbor",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Ceviche",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Pate",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Knish Krink",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"King of The Sky",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Powder",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"7",
+                  "category_name":"Clarence",
+                  "category_thumbnail":"7.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Belson",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Clarence",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Mary",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Jeff",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Courtlin",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Ms. Baker",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Kimby",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Sumo",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Sammy",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mr. Reese",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Gilben",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Joshua Maverick",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Chad",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Nathan",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Chimley",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"8",
+                  "category_name":"Despicable Me",
+                  "category_thumbnail":"8.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Minion Stuart",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Minion Jerry",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Minion Kevin",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Minion Carl",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Minion Dave",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Agnes",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Antonio Perez",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Dr. Nefario",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Edith",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"El Macho",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Evil Minion",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Lance",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Phil",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Kyle",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Felonius",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Margo",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Vector",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Funny Stuart",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Serious Kevin",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Hiding Dave",
+                            "anime_step":10
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"9",
+                  "category_name":"Disney Tsum Tsum",
+                  "category_thumbnail":"9.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Alice",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Alien",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Anna",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Art",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Bambi",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Boo",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Cheshire Cat",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Cleo",
                             "anime_step":7
                             },
                             {
                             "anime_id":"9",
-                            "anime_name":"Classic #9",
+                            "anime_name":"Daisy Duck",
                             "anime_step":7
                             },
                             {
                             "anime_id":"10",
-                            "anime_name":"Classic #10",
-                            "anime_step":4
+                            "anime_name":"Dale",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Donald Duck",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Dumbo",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Eeyore",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Elsa",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Figaro",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Goofy",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Grumpy",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Jack Skellington",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Jiminy Cricket",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Lotso Huggin Bear",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Marie",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Mickey Mouse",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Mike",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Miss Bunny",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Olaf",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Oswald",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Patch",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Piglet",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Pinokio",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Pluto",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Pooh",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Prospector",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Rondall",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Roz",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Snow White",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Stitch",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Sulley",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"38",
+                            "anime_name":"Sven",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"39",
+                            "anime_name":"Tigger",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"40",
+                            "anime_name":"Tinker Bell",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"41",
+                            "anime_name":"White Rabbit",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"42",
+                            "anime_name":"Woody",
+                            "anime_step":8
                             }
                             ]
-                  }
-                  ]
+                  },
+                  {
+                  "category_id":"10",
+                  "category_name":"Dora and Diego",
+                  "category_thumbnail":"10.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Alicia",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Baby Jaguar",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Backpack",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Benny",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Bobo",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Boots",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Click",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Diego",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Dora",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Isa",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Map",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Rescue Pack",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Swiper the Fox",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Tico",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"11",
+                  "category_name":"Family Guy",
+                  "category_thumbnail":"11.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Stewie Griffin",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Peter Griffin",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Glenn Quagmire",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Brian Griffin",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Adam West",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Herbert the Pervert",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Chris Griffin",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Joe Swanson",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Lois Griffin",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Cleveland Brown",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Death",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Ernie the Giant Chicken",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Consuela",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Meg Griffin",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Stewie and Brian",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"12",
+                  "category_name":"Flapjack",
+                  "category_thumbnail":"12.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Flapjack",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Flapjack Chibi",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Captain Knuckle",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Bubbie",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Sally Syrup",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Dr. Barber",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Dock Hag",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Eight Armed Willy",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Pappermint Larry",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Colonel",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Lolly Poopdeck",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Kid Nickels",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Kelly",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"The Invector",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Slippery Pete",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"13",
+                  "category_name":"Frozen",
+                  "category_thumbnail":"13.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Anna",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Elsa",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Olaf",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Bulda",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Ducke of Weselton",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Prince Hans",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Kristoff",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Marshmallow",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Oaken",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Sven",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Queen of Arendelle",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"King of Arendelle",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Snow Queen Elsa",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Beautiful Anna",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Hans",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Frozen Elsa",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Cute Anna",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Happy Olaf",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Elsa’s Portret",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Beautiful Elsa",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Cute Sven",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Sven and Olaf",
+                            "anime_step":15
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"14",
+                  "category_name":"Futurama",
+                  "category_thumbnail":"14.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Bender",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Amy Wong",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Calculon",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Dr. Zoidberg",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Hermes Conrad",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Hypnotoad",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Kit Kroker",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Mom",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Philip J. Fry",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Nibbler",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Nixons Head",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Pazuzu",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Professor Hubert",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Roberto",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Robot Devil",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Santa",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Scruffy the Janitor",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Tinny Tim",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Turanga Leela",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Zapp Brannigan",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"15",
+                  "category_name":"Galaxy Guardians",
+                  "category_thumbnail":"15.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Gamora",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Korath",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Nebula",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Ronan",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Yondu",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Groot",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Rocket",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Star-Lord",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Star-Lord",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mask",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"16",
+                  "category_name":"Guardian of the Moon",
+                  "category_thumbnail":"16.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Chibi Mune",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Glim",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Glim's Father",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Krrrack",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Leeyoon",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mox",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Mune",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Necross",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Phospho",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Sohone",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Spleen",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Moon Spider",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Mune and Glim",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Xolal",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Yule",
+                            "anime_step":7
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"17",
+                  "category_name":"Home Cartoon",
+                  "category_thumbnail":"17.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Captain Smek",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cat",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Gratuity - Tip",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Kyle",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Little boov",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Lucy",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Oh",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Oh Orange",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Oh Yellow",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Oh green",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"18",
+                  "category_name":"Hotel Transylvania",
+                  "category_thumbnail":"18.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Dracula",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Jonathan",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Mavis",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Frankenstein",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Wayne",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Griffin",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Murray",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Elderly Gremlin",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Winnie",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Winnie",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Vlad",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Wanda",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Blooby",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Quasimodo",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Esmeralda",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"19",
+                  "category_name":"Ice Age",
+                  "category_thumbnail":"19.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Sid",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Buck",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Diego",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Scrat",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Scratte",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Many",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Crash",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Shira",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Ellie",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Peaches",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Francine",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Mama Dino",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Gavin",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Gertie",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Roger",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Teddy",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"20",
+                  "category_name":"Inside Out",
+                  "category_thumbnail":"20.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Anger",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Disgust",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Fear",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Joy",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Sadness",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Rainbow Unicorn",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Bing-Bong",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Riley Anderson",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mr. Anderson",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Mrs. Anderson",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"21",
+                  "category_name":"Little Einsteins",
+                  "category_thumbnail":"21.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Annie",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Big Jet",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Firebird",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"June",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Leo",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Melody",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Quincy",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Rocket",
+                            "anime_step":14
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"22",
+                  "category_name":"Ninja Turtles",
+                  "category_thumbnail":"22.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Donatello 1",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Donatello 2",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Donatello 3",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Leonardo 1",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Leonardo 2",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Splinter",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Michelangelo 1",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Michelangelo 2",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"April",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Rafael 1",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Rafael 2",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Masks",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Splinter",
+                            "anime_step":18
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Rafael",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"23",
+                  "category_name":"Madagascar Penguins",
+                  "category_thumbnail":"23.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Kowalski",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Kowalski Ninja",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Private",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Private Waving",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Rico",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Rico With Hammer",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Skipper",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Skipper Ninja",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Dave",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Alex",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Melman",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Marty",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Gloria",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Short Fuse",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Roger",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Mort",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Eva",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Moon Cat",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"North Wind",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Maurice",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Corporal",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mason",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"King julien",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Eggy The Duck",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Stefano",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"24",
+                  "category_name":"Kung Fu Panda",
+                  "category_thumbnail":"24.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Po",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Tigress",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Lord Shen",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Tai Lung",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Crane",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Master Shifu",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Mantis",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Viper",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Monkey",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mr. Ping",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Grand Master Oogway",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Kai",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Li",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Mei Mei",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Croc",
+                            "anime_step":14
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"25",
+                  "category_name":"Planes Cartoon",
+                  "category_thumbnail":"25.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Dusty",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"El Chupacabra",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Rochelle",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Ripslinger",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Skipper",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Leadbottom",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Ishani",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Bulldog",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Ned",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Bravo",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Colin Cowlin",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Dottie",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Chug",
+                            "anime_step":8
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"26",
+                  "category_name":"Pororo Penguin",
+                  "category_thumbnail":"26.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Crong",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Eddy",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Harry",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Loopy",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Nyao",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Petty",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Pipi and Popo",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Poby",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Pororo",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Rody",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Tong-Tong",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Tu-Tu",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"27",
+                  "category_name":"Regular Show",
+                  "category_thumbnail":"27.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Mordecai",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Rigby",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Pops",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Skips",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Benson",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Muscle Man",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"High Five Ghost",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Eileen",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Baby Ducks",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Thomas",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Cloudy Jay",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Margaret",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"The Wizard",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Mitsuru Shinehara",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Techmo",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"28",
+                  "category_name":"Scooby Doo",
+                  "category_thumbnail":"28.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Scooby Doo",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Scooby Doo 2",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Scooby Doo 3",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Shaggy Rogers",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Shaggy Rogers 2",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Daphne Blake",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Daphne Blake 2",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Fred Jones",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Fred Jones 2",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Scrappy Doo",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Scooby Dum",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Velma Dinkley",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Velma Dinkley 2",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Scooby Dee",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"The Creeper",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"29",
+                  "category_name":"Shaun the Sheep",
+                  "category_thumbnail":"29.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Alien",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Bathduck",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Bitzer",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Bull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Farmer",
+                            "anime_step":15
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mowermouth",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Nuts",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Pidsley",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Pig",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Shaun the Sheep",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Shaun",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Shirley",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Slip",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Timmy's Mom",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Timmy",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"30",
+                  "category_name":"Superheroes",
+                  "category_thumbnail":"30.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Batman",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Superman",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Spider-Man",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Iron man",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Wolverine",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Hulk",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Captain America",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Wonder Woman",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Green Lantern",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Goku",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Thor",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Flash",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Deadpool",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"DareDevil",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Hellboy",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Cat woman",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Spawn",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Silver Surfer",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Kick Ass",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Avengers",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Fantastic Four",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Aquaman",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Doctor Who",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Dr. Manhattan",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Ghost Rider",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Invisible Woman",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Iron Fist",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Megaman",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Professor X",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Rorschach",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"The Thing",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"31",
+                  "category_name":"Sonic the Hedgehog",
+                  "category_thumbnail":"31.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Shadow the Hedgehog",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Sonik the Hedgehog",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Knuckles the Echidna",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Silver the Hedgehog",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Miles Tails Prower",
+                            "anime_step":16
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Blaze the Cat",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Espio the Chameleon",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Metal Sonik",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Rouge the Bat",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"E-123 Omega",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Doctor Ivo Robotnik",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Amy Rose",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Vector the Crocodile",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Jet the Hawk",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Hyper Sonik",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"32",
+                  "category_name":"South Park",
+                  "category_thumbnail":"32.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Butters",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cartman",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Chef",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Craig",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Herbert Garrison",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Ike",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Jimmy",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Kenny",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Kyle",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mr.Mackey",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Mrs. Broflovski",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Nathan",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Randy Marsh",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Stan",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Terrance",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Philip",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Timmy",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Towelie",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Victoria",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Wendy",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"33",
+                  "category_name":"Spongebob",
+                  "category_thumbnail":"33.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Spongebob",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Spongebob Singing",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Patrick Star",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Squidward",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Barnacle Boy",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Doodle Bob",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Fred Rechid",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Gary The Snail",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Larry The Lobster",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mermaid Man",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Plankton",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Mr Krabs",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Mrs Puff",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Sandy Cheeks",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"The Flying Dutchman",
+                            "anime_step":11
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"34",
+                  "category_name":"The Simpsons",
+                  "category_thumbnail":"34.png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Simpsons Family",
+                            "anime_step":19
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Homer",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Bart",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Lisa",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Meggy",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Marge",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Moe",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Apu",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Abraham Abe J.",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Barney",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Charles Burns",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Chief Wiggum",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Comic Book Guy",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Groundskeeper Willie",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Lenny Leonard",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Milhouse Van Houten",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Ned Flanders",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Otto Mann",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Ralph Wiggum",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Sideshow Bob",
+                            "anime_step":12
+                            }
+                            ]
+                  },
+                  
+    
+    ]
 }
