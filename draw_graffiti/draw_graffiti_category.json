@@ -4,6 +4,7 @@
                     "category_id":"1000",
                     "category_name":"Graffiti",
                     "category_thumbnail":"1000.png",
+                    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/",
                     "is_video":"false",
                     "animes":[
                               {
@@ -257,7 +258,7 @@
                   "category_id":"35",
                   "category_name":"Anime Eyes",
                   "category_thumbnail":"35.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/",
                   "is_video":"false",
                   "animes":[
                             {
@@ -341,7 +342,7 @@
                   "category_id":"36",
                   "category_name":"Color Eyes",
                   "category_thumbnail":"36.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_1/master/",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_graffiti/",
                   "is_video":"false",
                   "animes":[
                             {
