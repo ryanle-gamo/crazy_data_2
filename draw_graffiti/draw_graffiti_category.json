@@ -54,6 +54,11 @@
                               "anime_step":6
                               },
                               {
+                              "anime_id":"61",
+                              "anime_name":"Bomb",
+                              "anime_step":8
+                              },
+                              {
                               "anime_id":"10",
                               "anime_name":"Candy",
                               "anime_step":9
@@ -75,8 +80,13 @@
                               },
                               {
                               "anime_id":"14",
-                              "anime_name":"Freestyle",
+                              "anime_name":"FreeStyle",
                               "anime_step":7
+                              },
+                              {
+                              "anime_id":"63",
+                              "anime_name":"FreeStyle",
+                              "anime_step":9
                               },
                               {
                               "anime_id":"15",
@@ -90,7 +100,7 @@
                               },
                               {
                               "anime_id":"17",
-                              "anime_name":"Graffiti 2",
+                              "anime_name":"Graffiti",
                               "anime_step":5
                               },
                               {
@@ -99,13 +109,18 @@
                               "anime_step":7
                               },
                               {
+                              "anime_id":"65",
+                              "anime_name":"Hip-Hop",
+                              "anime_step":9
+                              },
+                              {
                               "anime_id":"19",
                               "anime_name":"Hope",
                               "anime_step":9
                               },
                               {
                               "anime_id":"20",
-                              "anime_name":"Hope 2",
+                              "anime_name":"Hope",
                               "anime_step":8
                               },
                               {
@@ -124,8 +139,13 @@
                               "anime_step":9
                               },
                               {
+                              "anime_id":"66",
+                              "anime_name":"Love",
+                              "anime_step":9
+                              },
+                              {
                               "anime_id":"24",
-                              "anime_name":"Love 2",
+                              "anime_name":"Love",
                               "anime_step":9
                               },
                               {
@@ -145,8 +165,13 @@
                               },
                               {
                               "anime_id":"28",
-                              "anime_name":"Music 2",
+                              "anime_name":"Music",
                               "anime_step":7
+                              },
+                              {
+                              "anime_id":"68",
+                              "anime_name":"Music",
+                              "anime_step":9
                               },
                               {
                               "anime_id":"29",
@@ -159,14 +184,14 @@
                               "anime_step":8
                               },
                               {
-                              "anime_id":"31",
-                              "anime_name":"Old School",
-                              "anime_step":6
-                              },
-                              {
                               "anime_id":"32",
                               "anime_name":"Peace",
                               "anime_step":9
+                              },
+                              {
+                              "anime_id":"57",
+                              "anime_name":"Peace",
+                              "anime_step":16
                               },
                               {
                               "anime_id":"33",
@@ -185,7 +210,7 @@
                               },
                               {
                               "anime_id":"36",
-                              "anime_name":"Rock 2",
+                              "anime_name":"Rock",
                               "anime_step":10
                               },
                               {
@@ -215,7 +240,7 @@
                               },
                               {
                               "anime_id":"42",
-                              "anime_name":"Style 2",
+                              "anime_name":"Style",
                               "anime_step":10
                               },
                               {
@@ -252,6 +277,216 @@
                               "anime_id":"49",
                               "anime_name":"Zombie",
                               "anime_step":12
+                              },
+                              {
+                              "anime_id":"50",
+                              "anime_name":"Wild Style",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id":"51",
+                              "anime_name":"Respect",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id":"52",
+                              "anime_name":"Batl",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id":"53",
+                              "anime_name":"DubStep",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"54",
+                              "anime_name":"DuB",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"55",
+                              "anime_name":"Crew",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id":"56",
+                              "anime_name":"Monsta",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"58",
+                              "anime_name":"Yes",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"59",
+                              "anime_name":"Soul",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id":"60",
+                              "anime_name":"Jesus",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"62",
+                              "anime_name":"DubStep",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"64",
+                              "anime_name":"Gangsta",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"67",
+                              "anime_name":"Lucky",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"69",
+                              "anime_name":"Old School",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"31",
+                              "anime_name":"Old School",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"70",
+                              "anime_name":"Swag",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"71",
+                              "anime_name":"A",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"72",
+                              "anime_name":"B",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"73",
+                              "anime_name":"C",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"74",
+                              "anime_name":"D",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"75",
+                              "anime_name":"E",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"76",
+                              "anime_name":"F",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"77",
+                              "anime_name":"G",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"78",
+                              "anime_name":"H",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"79",
+                              "anime_name":"I",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"80",
+                              "anime_name":"J",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"81",
+                              "anime_name":"K",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"82",
+                              "anime_name":"L",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"83",
+                              "anime_name":"M",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"84",
+                              "anime_name":"N",
+                              "anime_step":4
+                              },
+                              {
+                              "anime_id":"85",
+                              "anime_name":"O",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"86",
+                              "anime_name":"P",
+                              "anime_step":4
+                              },
+                              {
+                              "anime_id":"87",
+                              "anime_name":"Q",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"88",
+                              "anime_name":"R",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"89",
+                              "anime_name":"S",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"90",
+                              "anime_name":"T",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"91",
+                              "anime_name":"U",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"92",
+                              "anime_name":"V",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"93",
+                              "anime_name":"W",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"94",
+                              "anime_name":"X",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"95",
+                              "anime_name":"Y",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"96",
+                              "anime_name":"Z",
+                              "anime_step":5
                               }
                         ]
                     },
