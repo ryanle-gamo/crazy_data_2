@@ -1,5 +1,5 @@
 {
-	"latest_version":"1.0.0",
+	"latest_version":"1.0.1",
     "is_admob":true,
 	"version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_anime_eyes/draw_anime_eyes_category.json",
@@ -7,5 +7,5 @@
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_2/master/draw_anime_eyes/",
     "admob_banner_id":"ca-app-pub-4322965078780162/9209534336",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/1686267531",
-    "itune_url":"http://itunes.apple.com/app/id1095188746"
+    "itune_url":"http://itunes.apple.com/app/id1099566716"
 }
